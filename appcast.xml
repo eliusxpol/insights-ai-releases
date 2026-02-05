@@ -28,5 +28,29 @@
     </item>
     -->
 
+    <item>
+      <title>Version 1.0.1</title>
+      <pubDate>Wed, 05 Feb 2026 21:00:00 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>What's New</h2>
+        <ul>
+          <li>Extra usage (pay-as-you-go) tracking</li>
+          <li>Fix empty gap before Claude Code Instances section</li>
+          <li>Fix login prompt after wake, add token expiry check</li>
+          <li>Rename GhostHunter to Claude Code Instances</li>
+          <li>Add Sparkle auto-update</li>
+          <li>Add app icon and custom menu bar gauge icon</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/eliusxpol/insights-ai-releases/releases/download/v1.0.1/ClaudeControlCenter-1.0.1.zip"
+        sparkle:edSignature="yswJ36aRdwIxfUIWxCs5IN6PrF/R8BBOxYdt/XiSVJTT+NxhMrdXX2vUPJPjlFPoevjvYvS9CRmTBU5JTYJgCw=="
+        length="1439122"
+        type="application/octet-stream" />
+    </item>
+
   </channel>
 </rss>
